@@ -1,0 +1,12 @@
+precis topics for systems analysis:
+
+Healthcare - What prevents an effective health care prgoram from being implemented provincially?
+
+Transportation - what barriers hinder wider adoption of public transportation in the Calgary area?
+
+Housing - what prevents wider adoption in canadian metropolitain areas? housing affordability in Calgary spcifically?
+
+Adoption of open source software? - Why are the systems we use with technology locked into several providors?
+
+Potable water in first nations communities in canada - potable water in rural communities
+
